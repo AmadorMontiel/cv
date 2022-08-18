@@ -1,5 +1,7 @@
+/*Tag Selectors*/
+
 body {
-    background-color: #97E2E8;
+    background-color: #A8C6FF;
 }
 
 hr {
@@ -12,9 +14,22 @@ hr {
 }
 
 h1 {
-    color:#235F63
+    color: black
 }
 
 h3 {
-    color: #3ea8b0
+    color: #2F0BFF
 }
+
+a {
+    color: black;
+}
+
+/*Class Selectors - Start with . Class overrides Selector*/
+
+
+
+
+/*ID Selectors -  Start with # ID overrides Class*/
+/* ID's must be unique */
+
